@@ -10,8 +10,9 @@ import sys
 # 공백으로 구분된 2개 숫자 입력 받기
 N, M = map(int, sys.stdin.readline().split())
   
-# 2차원 리스트 입력 받기
-board = [list(map(int, sys.stdin.readline().split())) for _ in range(N)]
+# 여러 줄 입력 받기
+n = int(sys.stdin.readline())
+data = [sys.stdin.readline().strip() for i in range(n)]
   
 # 문자열 입력 받기
 data = sys.stdin.readline().rstrip()
