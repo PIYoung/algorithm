@@ -1,8 +1,8 @@
 # Algorithm
 
-## [Programmers](https://programmers.co.kr/) Algorithm
+## [Programmers](https://programmers.co.kr/)
 
-## [Baekjoon](https://www.acmicpc.net) Algorithm
+## [Baekjoon](https://www.acmicpc.net)
 
 <p>
   <a href="https://solved.ac/dlsdudg15">
